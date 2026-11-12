@@ -1,0 +1,21 @@
+{
+  "derived_category": {
+    "id": 1,
+    "name": "visible_plastic_debris",
+    "supercategory": "trash"
+  },
+  "negative_example_policy": "Retain every source image without a trash_plastic annotation as a negative image.",
+  "non_inferences": [
+    "bottle",
+    "bag",
+    "crate",
+    "polymer type",
+    "other object subtype"
+  ],
+  "scope": "Visible plastic debris only.",
+  "source_category": {
+    "id": 14,
+    "name": "trash_plastic"
+  },
+  "source_dataset": "TrashCAN 1.0 material_version"
+}

@@ -1,0 +1,275 @@
+{
+  "carried_reviewed": [
+    {
+      "candidate_id": 1,
+      "dhash": "fffffffffffffffd",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 2,
+      "dhash": "7f7f7f7f7f7f7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 3,
+      "dhash": "7fffffffffff7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 4,
+      "dhash": "3f7f7fffffffff7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 6,
+      "dhash": "7f7f7f7f7f7f3f7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 7,
+      "dhash": "feffffffffffffff",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 8,
+      "dhash": "3f7f7f7f7f7f7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 11,
+      "dhash": "7f7f7f7f7f3f7f7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 12,
+      "dhash": "3f7f7f7f7f7f3f7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 13,
+      "dhash": "7fffffffffffff7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 16,
+      "dhash": "7f7f7fffffffff7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 17,
+      "dhash": "3f3f3f3f3f3f3f3f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 18,
+      "dhash": "7fffffffff7fff7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 19,
+      "dhash": "ffffffffffff7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 20,
+      "dhash": "4703030301030301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 21,
+      "dhash": "7fffffffff7f7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 22,
+      "dhash": "7f7f7f7f7f7f3f3d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 23,
+      "dhash": "4303030303030301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 24,
+      "dhash": "47070b0b03070301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 25,
+      "dhash": "7ffffffffffffffd",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 26,
+      "dhash": "47070b0303070301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 27,
+      "dhash": "7fffffff7f7f7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 28,
+      "dhash": "feffffffffffff7f",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 29,
+      "dhash": "4307030303070301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 31,
+      "dhash": "7f7fffffffff7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 32,
+      "dhash": "7f7f7fff7f7f7f7d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 33,
+      "dhash": "7f7f7f7f3f3f3f3d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 34,
+      "dhash": "4303030703030301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 35,
+      "dhash": "7f7f7f7f7f7f7f3d",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 36,
+      "dhash": "4707010101070301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    },
+    {
+      "candidate_id": 40,
+      "dhash": "4703030303070301",
+      "status": "carried_from_v1",
+      "prior_decision": "no_evidence_of_same_scene_sequence"
+    }
+  ],
+  "new_candidates_pending_visual_review": [
+    {
+      "candidate_id": 5,
+      "dhash": "feffffff7f7f7f7f",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_05_feffffff7f7f7f7f.jpg",
+      "video_groups": [
+        "video:000211",
+        "video:000306",
+        "video:000313"
+      ]
+    },
+    {
+      "candidate_id": 9,
+      "dhash": "4303030103030301",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_09_4303030103030301.jpg",
+      "video_groups": [
+        "video:000003",
+        "video:000041"
+      ]
+    },
+    {
+      "candidate_id": 10,
+      "dhash": "fefffffffffffffd",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_10_fefffffffffffffd.jpg",
+      "video_groups": [
+        "video:000213",
+        "video:000288"
+      ]
+    },
+    {
+      "candidate_id": 14,
+      "dhash": "7f7ffffffffffffd",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_14_7f7ffffffffffffd.jpg",
+      "video_groups": [
+        "video:000050",
+        "video:000547"
+      ]
+    },
+    {
+      "candidate_id": 15,
+      "dhash": "7f7e7f7f7f7f7f7f",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_15_7f7e7f7f7f7f7f7f.jpg",
+      "video_groups": [
+        "video:000125",
+        "video:000126"
+      ]
+    },
+    {
+      "candidate_id": 30,
+      "dhash": "7f7f7fffffff7f7d",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_30_7f7f7fffffff7f7d.jpg",
+      "video_groups": [
+        "video:000080",
+        "video:000288",
+        "video:000368"
+      ]
+    },
+    {
+      "candidate_id": 37,
+      "dhash": "4303030103070301",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_37_4303030103070301.jpg",
+      "video_groups": [
+        "video:000003",
+        "video:000042"
+      ]
+    },
+    {
+      "candidate_id": 38,
+      "dhash": "7fffff7fffff7f7d",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_38_7fffff7fffff7f7d.jpg",
+      "video_groups": [
+        "video:000026",
+        "video:000050"
+      ]
+    },
+    {
+      "candidate_id": 39,
+      "dhash": "6ffffffffffffffd",
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/contact_sheets/candidate_39_6ffffffffffffffd.jpg",
+      "video_groups": [
+        "video:000044",
+        "video:000050"
+      ]
+    }
+  ]
+}

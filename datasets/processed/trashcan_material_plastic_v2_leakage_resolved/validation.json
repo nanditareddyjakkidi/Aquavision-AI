@@ -1,0 +1,19 @@
+{
+  "derived_instances": 1864,
+  "issues": [],
+  "splits": {
+    "test": {
+      "annotations": 276,
+      "images": 1082
+    },
+    "train": {
+      "annotations": 1299,
+      "images": 5048
+    },
+    "val": {
+      "annotations": 289,
+      "images": 1082
+    }
+  },
+  "valid": true
+}

@@ -1,0 +1,70 @@
+{
+  "candidate_id": "funie_gan_frozen_batchnorm_epoch20_mps",
+  "created_utc": "2026-10-01T05:40:53.883630+00:00",
+  "status": "candidate_only_not_test_evaluated",
+  "task": "underwater image enhancement",
+  "model_description": "FUnIE-GAN with frozen BatchNorm running statistics (epoch-1 running means, variances, and counters frozen; affine weight/bias parameters remained trainable).",
+  "checkpoint": {
+    "path": "training_runs/funie/funie_batchnorm_frozen_e2to4_mps_20260930/checkpoints/best_validation_psnr.pt",
+    "sha256": "c9259bc5257ef28c58c09090ee165c8c990eaab49f455bdc86c147363c5b77d5",
+    "epoch": 20,
+    "global_step": 12460,
+    "best_validation_psnr": 20.15228518443321,
+    "latest_checkpoint_path": "training_runs/funie/funie_batchnorm_frozen_e2to4_mps_20260930/checkpoints/latest.pt",
+    "latest_checkpoint_sha256": "c9259bc5257ef28c58c09090ee165c8c990eaab49f455bdc86c147363c5b77d5"
+  },
+  "source_revision": "8f934c834c94e007b00866186b9ee624dc2b7b69",
+  "frozen_manifest": {
+    "path": "datasets/processed/FINAL_MANIFEST_FREEZE_v2.sha256",
+    "sha256": "1593fa11d21cf9a21d21e0a3f0c8d72de7b89b76aba05a30d13ecb6db7c66c37"
+  },
+  "configuration": {
+    "run_config_path": "training_runs/funie/funie_batchnorm_frozen_e2to4_mps_20260930/run_config.json",
+    "seed": 20260930,
+    "batch_size": 1,
+    "loss_recipe": {
+      "discriminator": "0.5 * (MSE(D(reference, raw), 1) + MSE(D(G(raw), raw), 0)) * 10",
+      "generator": "MSE(D(G(raw), raw), 1) + 7 * L1(G(raw), reference) + 3 * VGG19_conv5_2_MSE(G(raw), reference)",
+      "note": "The discriminator fake image is generated under no_grad during the D update; this preserves the objective while avoiding an unused generator gradient."
+    },
+    "preprocessing": "paired RGB resize 256x256 bicubic; tensors normalized to [-1,1]; deterministic aligned p=0.5 horizontal flip only for train",
+    "excluded_data": [
+      "derived UIEB test: 133 pairs",
+      "UIEB challenging set: 60 images"
+    ],
+    "only_experimental_change": "After every generator.train()/discriminator.train(), all BatchNorm2d modules are reset to eval mode; affine weight/bias remain requires_grad=True and are optimized.",
+    "vgg19": {
+      "source_class": "nets.commons.VGG19_PercepLoss",
+      "feature_layer": "module 30 / conv5_2",
+      "source_weight_url": "https://download.pytorch.org/models/vgg19-dcbb9e9d.pth",
+      "local_path": ".cache/torch/hub/checkpoints/vgg19-dcbb9e9d.pth",
+      "sha256": "dcbb9e9dad569fff7a846263a77324fc34978fea2bfb039c012d710e1776ae44",
+      "input_semantics": "[-1,1] paired tensors passed directly, matching the pinned official implementation"
+    }
+  },
+  "validation": {
+    "pairs": 134,
+    "psnr_mean": 20.15228518443321,
+    "ssim_mean": 0.8532023741238153,
+    "raw_baseline": {
+      "pairs": 134,
+      "psnr_mean": 17.137275688683808,
+      "ssim_mean": 0.7547490027413439,
+      "metric_preprocessing": "same 256x256 bicubic RGB resize and [-1,1] to [0,1] conversion as enhanced validation metrics",
+      "device": "mps",
+      "frozen_manifest_sha256": "1593fa11d21cf9a21d21e0a3f0c8d72de7b89b76aba05a30d13ecb6db7c66c37"
+    },
+    "per_image_metrics": "training_runs/funie/funie_batchnorm_frozen_e2to4_mps_20260930/comparison_against_original/per_image_metrics_epoch_020.csv",
+    "remaining_regressions_summary": "model_candidates/funie_gan_frozen_batchnorm_epoch20_mps_validation_regressions.md"
+  },
+  "remaining_per_image_regressions": {
+    "psnr_worsened": 24,
+    "ssim_worsened": 32,
+    "any_metric_worsened": 35,
+    "psnr_mean_delta_vs_raw": 3.0150094957494025,
+    "psnr_median_delta_vs_raw": 3.2766551971435547,
+    "ssim_mean_delta_vs_raw": 0.09845337138247134,
+    "ssim_median_delta_vs_raw": 0.10509702563285828
+  },
+  "scope_guard": "UIEB test pairs and challenging images were not used for training or candidate selection. This record does not replace detector inputs with enhanced images."
+}

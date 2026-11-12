@@ -1,0 +1,663 @@
+{
+  "reviewed_at_utc": "2026-09-30T14:32:48.425951+00:00",
+  "method": "Side-by-side manual visual review of all 38 exact-dHash contact sheets. dHash equality was treated as a review signal, not duplicate proof.",
+  "decisions": [
+    {
+      "candidate_id": 1,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_01_fffffffffffffffd.jpg",
+      "dhash": "fffffffffffffffd",
+      "video_groups": [
+        "video:000034",
+        "video:000049",
+        "video:000153",
+        "video:000154",
+        "video:000288",
+        "video:000342"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 2,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_02_7f7f7f7f7f7f7f7d.jpg",
+      "dhash": "7f7f7f7f7f7f7f7d",
+      "video_groups": [
+        "video:000039",
+        "video:000132",
+        "video:000339",
+        "video:000342"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 3,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_03_7fffffffffff7f7d.jpg",
+      "dhash": "7fffffffffff7f7d",
+      "video_groups": [
+        "video:000022",
+        "video:000025",
+        "video:000026",
+        "video:000038",
+        "video:000039",
+        "video:000043",
+        "video:000079"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 4,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_04_3f7f7fffffffff7f.jpg",
+      "dhash": "3f7f7fffffffff7f",
+      "video_groups": [
+        "video:000127",
+        "video:000128"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 5,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_05_7f7f7f7f7f7f3f7f.jpg",
+      "dhash": "7f7f7f7f7f7f3f7f",
+      "video_groups": [
+        "video:000126",
+        "video:000132"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 6,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_06_feffffffffffffff.jpg",
+      "dhash": "feffffffffffffff",
+      "video_groups": [
+        "video:000212",
+        "video:000213",
+        "video:000288"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 7,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_07_3f7f7f7f7f7f7f7d.jpg",
+      "dhash": "3f7f7f7f7f7f7f7d",
+      "video_groups": [
+        "video:000131",
+        "video:000132"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 8,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_08_ffffffff7fffffff.jpg",
+      "dhash": "ffffffff7fffffff",
+      "video_groups": [
+        "video:000255",
+        "video:000261"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 9,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_09_7f7f7f7f7f3f7f7f.jpg",
+      "dhash": "7f7f7f7f7f3f7f7f",
+      "video_groups": [
+        "video:000125",
+        "video:000132"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 10,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_10_feffffffffff7f7f.jpg",
+      "dhash": "feffffffffff7f7f",
+      "video_groups": [
+        "video:000211",
+        "video:000282"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 11,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_11_3f7f7f7f7f7f3f7f.jpg",
+      "dhash": "3f7f7f7f7f7f3f7f",
+      "video_groups": [
+        "video:000125",
+        "video:000126",
+        "video:000130"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 12,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_12_7fffffffffffff7d.jpg",
+      "dhash": "7fffffffffffff7d",
+      "video_groups": [
+        "video:000022",
+        "video:000023",
+        "video:000025",
+        "video:000039",
+        "video:000043",
+        "video:000044",
+        "video:000050"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 13,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_13_7f7f7fffffffff7f.jpg",
+      "dhash": "7f7f7fffffffff7f",
+      "video_groups": [
+        "video:000127",
+        "video:000270"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 14,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_14_3f3f3f3f3f3f3f3f.jpg",
+      "dhash": "3f3f3f3f3f3f3f3f",
+      "video_groups": [
+        "video:000039",
+        "video:000130"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 15,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_15_5f7f7f7f7f7f7f7d.jpg",
+      "dhash": "5f7f7f7f7f7f7f7d",
+      "video_groups": [
+        "video:000032",
+        "video:000079"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 16,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_16_7fffffffffdfff7d.jpg",
+      "dhash": "7fffffffffdfff7d",
+      "video_groups": [
+        "video:000025",
+        "video:000043"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 17,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_17_7fffffffff7fff7d.jpg",
+      "dhash": "7fffffffff7fff7d",
+      "video_groups": [
+        "video:000022",
+        "video:000050"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 18,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_18_ffffffffffff7f7d.jpg",
+      "dhash": "ffffffffffff7f7d",
+      "video_groups": [
+        "video:000023",
+        "video:000079"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 19,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_19_4703030301030301.jpg",
+      "dhash": "4703030301030301",
+      "video_groups": [
+        "video:000031",
+        "video:000042"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 20,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_20_7fffffffff7f7f7d.jpg",
+      "dhash": "7fffffffff7f7f7d",
+      "video_groups": [
+        "video:000039",
+        "video:000080",
+        "video:000342",
+        "video:000361"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 21,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_21_7f7f7f7f7f7f3f3d.jpg",
+      "dhash": "7f7f7f7f7f7f3f3d",
+      "video_groups": [
+        "video:000035",
+        "video:000321"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 22,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_22_4303030303030301.jpg",
+      "dhash": "4303030303030301",
+      "video_groups": [
+        "video:000028",
+        "video:000041"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 23,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_23_47070b0b03070301.jpg",
+      "dhash": "47070b0b03070301",
+      "video_groups": [
+        "video:000081",
+        "video:000098"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 24,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_24_7ffffffffffffffd.jpg",
+      "dhash": "7ffffffffffffffd",
+      "video_groups": [
+        "video:000022",
+        "video:000034",
+        "video:000043",
+        "video:000044",
+        "video:000049",
+        "video:000050",
+        "video:000153",
+        "video:000350"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 25,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_25_7fbfffffffffffff.jpg",
+      "dhash": "7fbfffffffffffff",
+      "video_groups": [
+        "video:000257",
+        "video:000258"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "unresolved_group_conservatively",
+      "rationale": "The bright, low-detail frames do not contain enough distinctive scene content to rule out a related capture session. The involved video groups are therefore kept together before any training.",
+      "uncertainty": "Visual inspection is inconclusive; equal dHash alone does not establish duplication."
+    },
+    {
+      "candidate_id": 26,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_26_ffffffffffffffff.jpg",
+      "dhash": "ffffffffffffffff",
+      "video_groups": [
+        "video:000170",
+        "video:000255",
+        "video:000261"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 27,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_27_47070b0303070301.jpg",
+      "dhash": "47070b0303070301",
+      "video_groups": [
+        "video:000028",
+        "video:000098"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 28,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_28_ffbfffffffffffff.jpg",
+      "dhash": "ffbfffffffffffff",
+      "video_groups": [
+        "video:000257",
+        "video:000258"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "unresolved_group_conservatively",
+      "rationale": "The bright, low-detail frames do not contain enough distinctive scene content to rule out a related capture session. The involved video groups are therefore kept together before any training.",
+      "uncertainty": "Visual inspection is inconclusive; equal dHash alone does not establish duplication."
+    },
+    {
+      "candidate_id": 29,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_29_7fffffff7f7f7f7d.jpg",
+      "dhash": "7fffffff7f7f7f7d",
+      "video_groups": [
+        "video:000038",
+        "video:000342"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 30,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_30_feffffffffffff7f.jpg",
+      "dhash": "feffffffffffff7f",
+      "video_groups": [
+        "video:000212",
+        "video:000213"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 31,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_31_4307030303070301.jpg",
+      "dhash": "4307030303070301",
+      "video_groups": [
+        "video:000028",
+        "video:000042"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 32,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_32_7f7fffffffff7f7d.jpg",
+      "dhash": "7f7fffffffff7f7d",
+      "video_groups": [
+        "video:000025",
+        "video:000039",
+        "video:000049"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 33,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_33_7f7f7fff7f7f7f7d.jpg",
+      "dhash": "7f7f7fff7f7f7f7d",
+      "video_groups": [
+        "video:000080",
+        "video:000342"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 34,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_34_7f7f7f7f3f3f3f3d.jpg",
+      "dhash": "7f7f7f7f3f3f3f3d",
+      "video_groups": [
+        "video:000035",
+        "video:000321"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 35,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_35_4303030703030301.jpg",
+      "dhash": "4303030703030301",
+      "video_groups": [
+        "video:000028",
+        "video:000041"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 36,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_36_7f7f7f7f7f7f7f3d.jpg",
+      "dhash": "7f7f7f7f7f7f7f3d",
+      "video_groups": [
+        "video:000039",
+        "video:000079"
+      ],
+      "derived_splits_before_resolution": [
+        "test",
+        "train"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 37,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_37_4707010101070301.jpg",
+      "dhash": "4707010101070301",
+      "video_groups": [
+        "video:000031",
+        "video:000041"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    },
+    {
+      "candidate_id": 38,
+      "contact_sheet": "datasets/processed/trashcan_material_plastic_v1/leakage_review/contact_sheets/candidate_38_4703030303070301.jpg",
+      "dhash": "4703030303070301",
+      "video_groups": [
+        "video:000028",
+        "video:000042"
+      ],
+      "derived_splits_before_resolution": [
+        "train",
+        "val"
+      ],
+      "decision": "no_evidence_of_same_scene_sequence",
+      "rationale": "Across video groups, the sheet shows differing objects, camera overlays, seafloor geometry, or illumination; the equal dHash is attributable to coarse low-detail underwater appearance.",
+      "uncertainty": "Manual visual review cannot prove independence, but no common scene/object sequence is visible."
+    }
+  ],
+  "conservative_group_links": [
+    [
+      "video:000257",
+      "video:000258"
+    ]
+  ],
+  "summary": {
+    "candidates_reviewed": 38,
+    "no_evidence_of_same_scene_sequence": 36,
+    "unresolved_candidates": [
+      25,
+      28
+    ],
+    "action": "Regenerate group-safe splits with video:000257 and video:000258 held together."
+  }
+}

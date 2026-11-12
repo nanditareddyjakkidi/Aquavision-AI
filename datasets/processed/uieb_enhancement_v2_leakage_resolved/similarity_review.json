@@ -1,0 +1,69 @@
+{
+  "policy": "Perceptual hash similarity is not proof of duplication; exact-dHash candidates were held together conservatively.",
+  "records": [
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "180_img_.png",
+        "646_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "550_img_.png",
+        "558_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "582_img_.png",
+        "648_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "684_img_.png",
+        "815_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "701_img_.png",
+        "786_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "705_img_.png",
+        "828_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "708_img_.png",
+        "829_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    },
+    {
+      "confirmed_duplicate": false,
+      "pairs": [
+        "720_img_.png",
+        "831_img_.png"
+      ],
+      "signal": "exact_raw_dhash"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "challenging_count": 60,
+  "exact_content_duplicate_groups": 0,
+  "exact_dhash_review_groups": 8,
+  "pair_count": 890,
+  "pair_groups": 882,
+  "rules": {
+    "pair_integrity": "Raw and reference images with the same filename are assigned to the same split.",
+    "scene_grouping": "No verified higher-level scene metadata exists; all non-dHash groups are filename-pair groups and marked unverified.",
+    "test_policy": "The derived test split is held out from training and model selection."
+  },
+  "split_counts": {
+    "test": 133,
+    "train": 623,
+    "val": 134
+  },
+  "target_pair_counts": {
+    "test": 133.5,
+    "train": 623.0,
+    "val": 133.5
+  },
+  "valid": true
+}

@@ -1,0 +1,827 @@
+{
+  "cross_group_exact_dhash_candidates": [
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "fffffffffffffffd",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000034_frame0000012.jpg",
+        "datasets/trashcan/material_version/train/vid_000034_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000154_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000154_frame0000011.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000054.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000059.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000060.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000061.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000062.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000063.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000064.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000065.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000066.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000067.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000068.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000069.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000070.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000071.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000072.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000073.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000074.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000075.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000076.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000077.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000078.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000079.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000080.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000081.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000082.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000083.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000084.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000085.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000086.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000087.jpg",
+        "datasets/trashcan/material_version/train/vid_000342_frame0000215.jpg",
+        "datasets/trashcan/material_version/val/vid_000034_frame0000005.jpg",
+        "datasets/trashcan/material_version/val/vid_000034_frame0000014.jpg",
+        "datasets/trashcan/material_version/val/vid_000034_frame0000015.jpg",
+        "datasets/trashcan/material_version/val/vid_000034_frame0000016.jpg",
+        "datasets/trashcan/material_version/val/vid_000049_frame0000017.jpg",
+        "datasets/trashcan/material_version/val/vid_000153_frame0000005.jpg",
+        "datasets/trashcan/material_version/val/vid_000154_frame0000003.jpg"
+      ],
+      "video_groups": [
+        "video:000034",
+        "video:000049",
+        "video:000153",
+        "video:000154",
+        "video:000288",
+        "video:000342"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7f7f7f7f7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000132_frame0000062.jpg",
+        "datasets/trashcan/material_version/train/vid_000339_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000342_frame0000270.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000010.jpg",
+        "datasets/trashcan/material_version/val/vid_000342_frame0000265.jpg"
+      ],
+      "video_groups": [
+        "video:000039",
+        "video:000132",
+        "video:000339",
+        "video:000342"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "7fffffffffff7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000022_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000022_frame0000014.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000003.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000004.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000007.jpg",
+        "datasets/trashcan/material_version/train/vid_000026_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000038_frame0000004.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000016.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000017.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000029.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000040.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000041.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000007.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000010.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000014.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000018.jpg",
+        "datasets/trashcan/material_version/val/vid_000043_frame0000019.jpg",
+        "datasets/trashcan/material_version/val/vid_000079_frame0000016.jpg"
+      ],
+      "video_groups": [
+        "video:000022",
+        "video:000025",
+        "video:000026",
+        "video:000038",
+        "video:000039",
+        "video:000043",
+        "video:000079"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "3f7f7fffffffff7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000127_frame0000036.jpg",
+        "datasets/trashcan/material_version/train/vid_000127_frame0000037.jpg",
+        "datasets/trashcan/material_version/train/vid_000128_frame0000009.jpg"
+      ],
+      "video_groups": [
+        "video:000127",
+        "video:000128"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "feffffff7f7f7f7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000211_frame0000022.jpg",
+        "datasets/trashcan/material_version/train/vid_000306_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000001.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000002.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000003.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000004.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000313_frame0000021.jpg"
+      ],
+      "video_groups": [
+        "video:000211",
+        "video:000306",
+        "video:000313"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "7f7f7f7f7f7f3f7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000126_frame0000004.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000007.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000010.jpg",
+        "datasets/trashcan/material_version/val/vid_000132_frame0000015.jpg"
+      ],
+      "video_groups": [
+        "video:000126",
+        "video:000132"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "feffffffffffffff",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000212_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000002.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000003.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000004.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000007.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000009.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000014.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000050.jpg",
+        "datasets/trashcan/material_version/val/vid_000213_frame0000012.jpg"
+      ],
+      "video_groups": [
+        "video:000212",
+        "video:000213",
+        "video:000288"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "3f7f7f7f7f7f7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000131_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000007.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000009.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000011.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000012.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000019.jpg",
+        "datasets/trashcan/material_version/train/vid_000131_frame0000020.jpg",
+        "datasets/trashcan/material_version/train/vid_000132_frame0000063.jpg"
+      ],
+      "video_groups": [
+        "video:000131",
+        "video:000132"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "val"
+      ],
+      "dhash": "4303030103030301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000003_frame0000016.jpg",
+        "datasets/trashcan/material_version/train/vid_000003_frame0000017.jpg",
+        "datasets/trashcan/material_version/train/vid_000041_frame0000007.jpg",
+        "datasets/trashcan/material_version/train/vid_000041_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000041_frame0000009.jpg"
+      ],
+      "video_groups": [
+        "video:000003",
+        "video:000041"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "fefffffffffffffd",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000213_frame0000006.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000052.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000053.jpg"
+      ],
+      "video_groups": [
+        "video:000213",
+        "video:000288"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7f7f7f3f7f7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000125_frame0000006.jpg",
+        "datasets/trashcan/material_version/val/vid_000132_frame0000030.jpg"
+      ],
+      "video_groups": [
+        "video:000125",
+        "video:000132"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "3f7f7f7f7f7f3f7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000125_frame0000026.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000009.jpg",
+        "datasets/trashcan/material_version/train/vid_000130_frame0000024.jpg",
+        "datasets/trashcan/material_version/train/vid_000130_frame0000025.jpg"
+      ],
+      "video_groups": [
+        "video:000125",
+        "video:000126",
+        "video:000130"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "7fffffffffffff7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000023_frame0000012.jpg",
+        "datasets/trashcan/material_version/train/vid_000043_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000050_frame0000023.jpg",
+        "datasets/trashcan/material_version/train/vid_000050_frame0000024.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000030.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000033.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000042.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000043.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000008.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000009.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000011.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000012.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000015.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000014.jpg",
+        "datasets/trashcan/material_version/val/vid_000043_frame0000008.jpg",
+        "datasets/trashcan/material_version/val/vid_000044_frame0000013.jpg",
+        "datasets/trashcan/material_version/val/vid_000050_frame0000004.jpg",
+        "datasets/trashcan/material_version/val/vid_000050_frame0000005.jpg"
+      ],
+      "video_groups": [
+        "video:000022",
+        "video:000023",
+        "video:000025",
+        "video:000039",
+        "video:000043",
+        "video:000044",
+        "video:000050"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "7f7ffffffffffffd",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000050_frame0000009.jpg",
+        "datasets/trashcan/material_version/train/vid_000050_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000547_frame0000009.jpg"
+      ],
+      "video_groups": [
+        "video:000050",
+        "video:000547"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "val"
+      ],
+      "dhash": "7f7e7f7f7f7f7f7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000125_frame0000005.jpg",
+        "datasets/trashcan/material_version/train/vid_000125_frame0000012.jpg",
+        "datasets/trashcan/material_version/train/vid_000125_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000125_frame0000014.jpg",
+        "datasets/trashcan/material_version/train/vid_000126_frame0000012.jpg"
+      ],
+      "video_groups": [
+        "video:000125",
+        "video:000126"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "7f7f7fffffffff7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000127_frame0000038.jpg",
+        "datasets/trashcan/material_version/train/vid_000270_frame0000029.jpg"
+      ],
+      "video_groups": [
+        "video:000127",
+        "video:000270"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "3f3f3f3f3f3f3f3f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000130_frame0000004.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000008.jpg"
+      ],
+      "video_groups": [
+        "video:000039",
+        "video:000130"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "7fffffffff7fff7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000022_frame0000015.jpg",
+        "datasets/trashcan/material_version/train/vid_000050_frame0000022.jpg"
+      ],
+      "video_groups": [
+        "video:000022",
+        "video:000050"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "ffffffffffff7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000023_frame0000011.jpg",
+        "datasets/trashcan/material_version/train/vid_000079_frame0000010.jpg"
+      ],
+      "video_groups": [
+        "video:000023",
+        "video:000079"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4703030301030301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000031_frame0000024.jpg",
+        "datasets/trashcan/material_version/val/vid_000042_frame0000008.jpg"
+      ],
+      "video_groups": [
+        "video:000031",
+        "video:000042"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "7fffffffff7f7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000039_frame0000017.jpg",
+        "datasets/trashcan/material_version/train/vid_000342_frame0000246.jpg",
+        "datasets/trashcan/material_version/train/vid_000361_frame0000037.jpg",
+        "datasets/trashcan/material_version/val/vid_000080_frame0000029.jpg",
+        "datasets/trashcan/material_version/val/vid_000080_frame0000030.jpg",
+        "datasets/trashcan/material_version/val/vid_000080_frame0000031.jpg",
+        "datasets/trashcan/material_version/val/vid_000342_frame0000213.jpg"
+      ],
+      "video_groups": [
+        "video:000039",
+        "video:000080",
+        "video:000342",
+        "video:000361"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7f7f7f7f3f3d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000321_frame0000007.jpg",
+        "datasets/trashcan/material_version/val/vid_000035_frame0000117.jpg"
+      ],
+      "video_groups": [
+        "video:000035",
+        "video:000321"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4303030303030301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000041_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000041_frame0000011.jpg",
+        "datasets/trashcan/material_version/train/vid_000041_frame0000012.jpg",
+        "datasets/trashcan/material_version/val/vid_000028_frame0000009.jpg",
+        "datasets/trashcan/material_version/val/vid_000041_frame0000013.jpg"
+      ],
+      "video_groups": [
+        "video:000028",
+        "video:000041"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "47070b0b03070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000098_frame0000017.jpg",
+        "datasets/trashcan/material_version/val/vid_000081_frame0000029.jpg"
+      ],
+      "video_groups": [
+        "video:000081",
+        "video:000098"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train",
+        "val"
+      ],
+      "dhash": "7ffffffffffffffd",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000043_frame0000009.jpg",
+        "datasets/trashcan/material_version/train/vid_000043_frame0000011.jpg",
+        "datasets/trashcan/material_version/train/vid_000043_frame0000012.jpg",
+        "datasets/trashcan/material_version/train/vid_000043_frame0000013.jpg",
+        "datasets/trashcan/material_version/train/vid_000044_frame0000023.jpg",
+        "datasets/trashcan/material_version/train/vid_000050_frame0000008.jpg",
+        "datasets/trashcan/material_version/train/vid_000350_frame0000005.jpg",
+        "datasets/trashcan/material_version/val/vid_000022_frame0000044.jpg",
+        "datasets/trashcan/material_version/val/vid_000034_frame0000017.jpg",
+        "datasets/trashcan/material_version/val/vid_000044_frame0000014.jpg",
+        "datasets/trashcan/material_version/val/vid_000049_frame0000016.jpg",
+        "datasets/trashcan/material_version/val/vid_000049_frame0000018.jpg",
+        "datasets/trashcan/material_version/val/vid_000153_frame0000003.jpg"
+      ],
+      "video_groups": [
+        "video:000022",
+        "video:000034",
+        "video:000043",
+        "video:000044",
+        "video:000049",
+        "video:000050",
+        "video:000153",
+        "video:000350"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "47070b0303070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000098_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000098_frame0000016.jpg",
+        "datasets/trashcan/material_version/val/vid_000028_frame0000043.jpg"
+      ],
+      "video_groups": [
+        "video:000028",
+        "video:000098"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7fffffff7f7f7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000038_frame0000001.jpg",
+        "datasets/trashcan/material_version/val/vid_000342_frame0000227.jpg"
+      ],
+      "video_groups": [
+        "video:000038",
+        "video:000342"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "feffffffffffff7f",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000213_frame0000010.jpg",
+        "datasets/trashcan/material_version/train/vid_000213_frame0000011.jpg",
+        "datasets/trashcan/material_version/val/vid_000212_frame0000008.jpg"
+      ],
+      "video_groups": [
+        "video:000212",
+        "video:000213"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4307030303070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000042_frame0000010.jpg",
+        "datasets/trashcan/material_version/val/vid_000028_frame0000010.jpg"
+      ],
+      "video_groups": [
+        "video:000028",
+        "video:000042"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7fffffff7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000080_frame0000023.jpg",
+        "datasets/trashcan/material_version/train/vid_000288_frame0000088.jpg",
+        "datasets/trashcan/material_version/train/vid_000368_frame0000013.jpg"
+      ],
+      "video_groups": [
+        "video:000080",
+        "video:000288",
+        "video:000368"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "val"
+      ],
+      "dhash": "7f7fffffffff7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000049_frame0000007.jpg",
+        "datasets/trashcan/material_version/val/vid_000025_frame0000016.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000012.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000013.jpg",
+        "datasets/trashcan/material_version/val/vid_000039_frame0000020.jpg"
+      ],
+      "video_groups": [
+        "video:000025",
+        "video:000039",
+        "video:000049"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7fff7f7f7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000080_frame0000132.jpg",
+        "datasets/trashcan/material_version/train/vid_000342_frame0000272.jpg"
+      ],
+      "video_groups": [
+        "video:000080",
+        "video:000342"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7f7f3f3f3f3d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000321_frame0000015.jpg",
+        "datasets/trashcan/material_version/val/vid_000035_frame0000116.jpg"
+      ],
+      "video_groups": [
+        "video:000035",
+        "video:000321"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4303030703030301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/train/vid_000041_frame0000019.jpg",
+        "datasets/trashcan/material_version/val/vid_000028_frame0000015.jpg"
+      ],
+      "video_groups": [
+        "video:000028",
+        "video:000041"
+      ]
+    },
+    {
+      "derived_splits": [
+        "train",
+        "val"
+      ],
+      "dhash": "7f7f7f7f7f7f7f3d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000039_frame0000009.jpg",
+        "datasets/trashcan/material_version/val/vid_000079_frame0000126.jpg"
+      ],
+      "video_groups": [
+        "video:000039",
+        "video:000079"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4707010101070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000031_frame0000018.jpg",
+        "datasets/trashcan/material_version/val/vid_000031_frame0000021.jpg",
+        "datasets/trashcan/material_version/val/vid_000041_frame0000027.jpg"
+      ],
+      "video_groups": [
+        "video:000031",
+        "video:000041"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "val"
+      ],
+      "dhash": "4303030103070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000003_frame0000004.jpg",
+        "datasets/trashcan/material_version/val/vid_000042_frame0000021.jpg"
+      ],
+      "video_groups": [
+        "video:000003",
+        "video:000042"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "7fffff7fffff7f7d",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000026_frame0000017.jpg",
+        "datasets/trashcan/material_version/val/vid_000050_frame0000014.jpg"
+      ],
+      "video_groups": [
+        "video:000026",
+        "video:000050"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "6ffffffffffffffd",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000044_frame0000012.jpg",
+        "datasets/trashcan/material_version/val/vid_000050_frame0000007.jpg"
+      ],
+      "video_groups": [
+        "video:000044",
+        "video:000050"
+      ]
+    },
+    {
+      "derived_splits": [
+        "test",
+        "train"
+      ],
+      "dhash": "4703030303070301",
+      "interpretation": "Perceptual-hash similarity only; this is a review candidate, not proof of duplication.",
+      "source_image_paths": [
+        "datasets/trashcan/material_version/val/vid_000028_frame0000008.jpg",
+        "datasets/trashcan/material_version/val/vid_000042_frame0000017.jpg"
+      ],
+      "video_groups": [
+        "video:000028",
+        "video:000042"
+      ]
+    }
+  ],
+  "prior_same_video_candidates_still_cross_split_after_grouping": 0,
+  "prior_supplied_split_nearby_same_video_candidates": 892,
+  "rule": "All verified video groups are atomic; perceptual similarity is reported for review and never treated as proof of duplication."
+}

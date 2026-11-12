@@ -1,0 +1,26 @@
+{
+  "frozen_at_utc": "2026-09-30T14:36:03.397465+00:00",
+  "manifest": {
+    "path": "datasets/processed/FINAL_MANIFEST_FREEZE_v2.sha256",
+    "sha256": "1593fa11d21cf9a21d21e0a3f0c8d72de7b89b76aba05a30d13ecb6db7c66c37",
+    "file_count": 58
+  },
+  "validation": {
+    "derived_coco_valid": true,
+    "derived_coco_issues": [],
+    "video_group_split_violations": [],
+    "uieb_pair_group_split_violations": [],
+    "conservative_groups": {
+      "video:000257": [
+        "train"
+      ],
+      "video:000258": [
+        "train"
+      ]
+    }
+  },
+  "leakage_decisions": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved/leakage_review/review_decisions.json",
+  "detector_preparation": "datasets/processed/trashcan_material_plastic_v2_leakage_resolved",
+  "uieb_preparation": "datasets/processed/uieb_enhancement_v2_leakage_resolved",
+  "freeze_policy": "Future training and smoke tests must read these files without changing their content."
+}

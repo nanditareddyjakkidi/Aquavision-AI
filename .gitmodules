@@ -1,0 +1,8 @@
+[submodule "third_party/FUnIE-GAN"]
+	path = third_party/FUnIE-GAN
+	url = https://github.com/xahidbuffon/FUnIE-GAN.git
+	branch = master
+[submodule "third_party/rf-detr"]
+	path = third_party/rf-detr
+	url = https://github.com/roboflow/rf-detr.git
+	branch = develop

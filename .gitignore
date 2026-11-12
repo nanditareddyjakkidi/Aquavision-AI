@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+datasets/trashcan/original_data/
+datasets/trashcan/instance_version/
+datasets/trashcan/material_version/
+datasets/uieb/raw/
+datasets/uieb/reference/
+datasets/uieb/challenging/
+smoke_tests/
+training_runs/
